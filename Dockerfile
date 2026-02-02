@@ -1,5 +1,5 @@
 # Usando a imagem oficial da Evolution API
-FROM atendai/evolution-api:2.3.3
+FROM evoapicloud/evolution-api:2.3.3
 
 # Definindo as variáveis de ambiente
 ENV AUTHENTICATION_API_KEY=${AUTHENTICATION_API_KEY} \
